@@ -15,10 +15,9 @@ Audio carrier board for teensy 4 and 4.1
 
 ## Drivers and librarires (Install from Arduino IDE or VSCODE+PLATFORMIO)
 
-* Rotary : 
-* Debounce switch :
-* Potentiometer filter :
-* Display
-* Multiplexer
-* Audio codec
-* EEPROM
+* Rotary : https://www.pjrc.com/teensy/td_libs_Encoder.html
+* Debounce switch :https://www.pjrc.com/teensy/td_libs_Bounce.html
+* Potentiometer noise filter : https://github.com/dxinteractive/ResponsiveAnalogRead
+* Display : https://www.pjrc.com/store/display_ili9341_touch.html
+* Multiplexer : https://github.com/waspinator/CD74HC4067
+* Audio codec : https://github.com/PaulStoffregen/Audio (already installed in teensyduino)
