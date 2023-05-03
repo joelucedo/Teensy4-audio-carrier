@@ -21,3 +21,4 @@ Audio carrier board for teensy 4 and 4.1
 * Display : https://www.pjrc.com/store/display_ili9341_touch.html
 * Multiplexer : https://github.com/waspinator/CD74HC4067
 * Audio codec : https://github.com/PaulStoffregen/Audio (already installed in teensyduino)
+* MIDI : https://github.com/FortySevenEffects/arduino_midi_library
