@@ -6,9 +6,9 @@ Audio carrier board for teensy 4 and 4.1
 
 * Audio codec : WM8731 (stereo 24bit 96Khz max)
 * SPI display 2.8'' ILI9431 (240RGBx320 Resolution & 262K color)
+* I2C EEPROM 256kb
 * 25x potentiometer (multiplexed)
 * 1x rotary encoder
-* I2C EEPROM 256kb
 * Line output
 * Headphone output
 * MIDI support : in, out, thru
