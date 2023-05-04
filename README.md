@@ -14,7 +14,7 @@ Audio carrier board for teensy 4 and 4.1
 * MIDI support : in, out, thru
 
 ## Drivers and libraries
-Install from Arduino IDE or VSCode+PlatformIO)
+Install from Arduino IDE or VSCode+PlatformIO
 
 * Rotary : https://www.pjrc.com/teensy/td_libs_Encoder.html
 * Debounce switch :https://www.pjrc.com/teensy/td_libs_Bounce.html
